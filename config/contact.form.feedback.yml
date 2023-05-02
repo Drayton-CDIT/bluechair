@@ -1,4 +1,4 @@
-uuid: 211f1fd7-0b14-4519-86c1-e1f9abadbe1d
+uuid: a3d950f0-21e6-4bda-a356-3884802cd0db
 langcode: en
 status: true
 dependencies: {  }
@@ -7,7 +7,7 @@ _core:
 id: feedback
 label: 'Website feedback'
 recipients:
-  - drayton.kittel@cditsolutions.com
+  - drayton.kittel+bluechair@gmail.com
 reply: ''
 weight: 0
 message: 'Your message has been sent.'
